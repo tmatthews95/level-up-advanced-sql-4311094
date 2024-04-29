@@ -1,4 +1,4 @@
-insert into employee (employeeId, firstName, LastName, title, startDate, managerId) values (1,'Wilie', 'Harling', 'CEO', '2020-12-11 01:26:43',NULL);
+insert into employee (employeeId, firstName, LastName, title, startDate, managerId) values (1,'Willie', 'Harling', 'CEO', '2020-12-11 01:26:43',NULL);
 insert into employee (employeeId, firstName, LastName, title, startDate, managerId) values (2,'Dulcy', 'Emberton', 'Engineer', '2021-01-06 11:08:08',8);
 insert into employee (employeeId, firstName, LastName, title, startDate, managerId) values (3,'Lorant', 'Barlow', 'Sales Person', '2020-10-26 18:50:54',8);
 insert into employee (employeeId, firstName, LastName, title, startDate, managerId) values (4,'Frank', 'Linskill', 'Engineer', '2020-12-14 04:54:23',8);
